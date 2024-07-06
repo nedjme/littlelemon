@@ -30,8 +30,8 @@ DATABASES = {
         'NAME': 'littlelemon',
         'HOST': 'localhost',
         'PORT': '3306',
-        'USER': 'admin',
-        'PASSWORD': '',
+        'USER': 'nedjme',
+        'PASSWORD': 'root@123',
         'OPTIONS': {
             'init_command': "SET sql_mode='STRICT_TRANS_TABLES'",
         },
