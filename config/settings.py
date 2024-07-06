@@ -66,11 +66,8 @@ DATABASES = {
         'NAME': 'littlelemon',
         'HOST': 'localhost',
         'PORT': '3306',
-        'USER': 'admin',
-        'PASSWORD': '',
-        'OPTIONS': {
-            'init_command': "SET sql_mode='STRICT_TRANS_TABLES'",
-        },
+        'USER': 'root',
+        'PASSWORD': 'root@123'
     },
 }
 
